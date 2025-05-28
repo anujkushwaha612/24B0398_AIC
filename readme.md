@@ -5,6 +5,7 @@
 - Make sure you have latest version python and pip installed
 - there might be some instance where you might need specific version of some library (see error to resolve it)
 - Clone the repo to run locally in your environment
+- For Q.3 replace "PUT_YOUR_API_KEY" with your groq api key.
 
 ## External Resources
 
